@@ -3,6 +3,8 @@ unsliderThumbs
 
 Adds basic thumbnail support to <a href="http://unslider.com">Unslider</a>. Quick and dirty to start. (Pushing early and often.)
 
+__unsliderThumbs requires the https://github.com/Aaron3/unslider/tree/unslider_onStart branch at a minimum__
+
 Assumes the `li` element that holds the slide has a `data-thumb="http://placeholder.it/70x70"` atribute that holds the thumbnail image.
 
 Called with chaining:
